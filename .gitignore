@@ -1,2 +1,4 @@
 src/*.o
-src/**.bin
+src/*.bin
+src/*.iso
+.vagrant
